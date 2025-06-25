@@ -16,8 +16,7 @@
 
 ## 🔗 Дополнительные ссылки
 
-- 🌐 [Моё портфолио](https://example.com)
-- 📂 [Проекты на GitHub](https://github.com/ivanov-dev)
+- 📂 [Проекты на GitHub](https://github.com/suslik599)
 - ✉️ [Почта](mailto:darkdrago2222@gmail.com)
 
 
