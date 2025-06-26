@@ -19,10 +19,3 @@ HEAD
 
 - 📂 [Проекты на GitHub](https://github.com/suslik599)
 - ✉️ [Почта](mailto:darkdrago2222@gmail.com)
-
-
-
--->
-
-# Мой первый проект
-7b57e54 (Initial commit: Добавлен README.md)
